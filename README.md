@@ -1,4 +1,4 @@
-Oi! Eu sou a Joice Felix e atualmente sou estudante front-end. 
+Oi! Eu sou a Joice Felix e sou estudante front-end. 
 
 <div >
     <a href="https://github.com/joicefelixc">
