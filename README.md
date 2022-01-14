@@ -18,6 +18,6 @@ Oi! Eu sou a Joice Felix e atualmente sou estudante front-end.
   <div>
   <a href="https://instagram.com/joicecarvalho01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joicefelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-         ![Snake animation](https://github.com/joicefelixc/joicefelixc/blob/output/github-contribution-grid-snake.svg)
   </div>
+
+    ![Snake animation](https://github.com/joicefelixc/joicefelixc/blob/output/github-contribution-grid-snake.svg)
