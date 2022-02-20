@@ -3,7 +3,7 @@ Oi! Eu sou a Joice Felix e sou estudante front-end.
 <div >
     <a href="https://github.com/joicefelixc">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joicefelixc&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicefelixc&layout=compact&langs_count=7&theme=buefy"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicefelixc&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
  <div style="display: inline_block"><br>
